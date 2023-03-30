@@ -1,0 +1,65 @@
+.container{
+  width: 70%;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 10px 10px 10px 10px;
+  padding-bottom: 80px;
+  margin-top: 40px;
+}
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+.titolo{
+  color: #08dc04;
+font-family: sans-serif;
+}
+.logo{
+  width:200px;
+  padding-top: 80px;
+}
+header{
+  text-align: center;
+}
+.barra{
+  background-color: #08dc04;
+  padding: 13px;
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+div>strong{
+  display: inline-block;
+  padding-top: 20px;
+  font-size: 20px;
+}
+div>span{
+  font-size: 12px;
+}
+
+.infopattino{
+ width: 70%;
+  margin: auto;
+}
+.wtext{
+  color: white;
+  font-family: sans-serif;
+  }
+  #carica1{
+    background: orange;
+    width: 300px;
+    height: 20px;
+    border-radius: 5px 5px 5px 5px;
+  }
+  #carica2{
+    background: green;
+    width: 500px;
+    height: 20px;
+    border-radius: 5px 5px 5px 5px;
+  }
+  #carica3{
+    background: red;
+    width: 100px;
+    height: 20px;
+    border-radius: 5px 5px 5px 5px;
+  }
